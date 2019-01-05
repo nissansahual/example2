@@ -1,0 +1,32 @@
+<div class="col-md-3">
+										<div class="square" style="background-color: #DACBAD;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #A78F6A;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #A78F6A;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #ECECEB;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #DACBAD;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #A78F6A;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #ECECEB;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #ECECEB;">
+											<div class="content"></div>
+										</div>
+										<div class="square" style="background-color: #DACBAD;">
+											<div class="content"></div>
+										</div>
+										<div class="clearfix"></div>
+											<a class="tooltips" id="BDot" href="#" style="position:absolute"><img src=><span>Content1</span></a>	
+											<a class="tooltips" id="GDot" href="#" style="position:absolute"><img src=><span>Contenn2</span></a>																
+									</div>
